@@ -50,7 +50,7 @@ address {
     line-height: 24px;
 }
 
-.address__street {
+.address__text {
     max-width: 240px;
     font-size: 18px;
 }
